@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🎯 I’m Sulagna Kundu. I’m a Learner who loves to explore new stuffs and grow while learning.
+- 🎯 I’m Sulagna Kundu. I’m a Learner, who loves to explore new stuffs and grow while learning.
 - 🌱 I’m currently pursuing Master of Computer Applications (MCA)
 - 📫 How to reach me: sulagnakundu7@gmail.com
 - 😄 Pronouns: She/Her
@@ -28,3 +28,6 @@
 ### My Hacktoberfest 2023 Board of Badges
   
 [![An image of @sulagnakundu's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sulagnakundu)](https://holopin.io/@sulagnakundu)
+
+### :fire: My Stats 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=SulagnaKundu&theme=highcontrast)](https://git.io/streak-stats)
