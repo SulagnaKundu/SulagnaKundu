@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🎯 I’m Sulagna Kundu. I’m a Learner, who loves to explore new stuffs and grow while learning.
-- 🌱 I’m currently pursuing Master of Computer Applications (MCA)
+- 🌱 I’m currently pursuing M.Tech in Computer Science from NIT Rourkela.
 - 📫 How to reach me: sulagnakundu7@gmail.com
 - 😄 Pronouns: She/Her
 
