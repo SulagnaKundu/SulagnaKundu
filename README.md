@@ -22,9 +22,5 @@
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-### My Hacktoberfest 2023 Board of Badges
-  
-[![An image of @sulagnakundu's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sulagnakundu)](https://holopin.io/@sulagnakundu)
-
 ### :fire: My Stats 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=SulagnaKundu&theme=highcontrast)](https://git.io/streak-stats)
